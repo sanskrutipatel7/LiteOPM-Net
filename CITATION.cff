@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "LiteOPM-Net: explainable lightweight multi-task CNN for modulation format identification and OSNR monitoring"
+authors:
+  - family-names: Patel
+    given-names: Sanskruti
+    affiliation: "Charotar University of Science and Technology (CHARUSAT), India"
+version: 1.0.0
+date-released: 2026-10-23
+license: MIT
+keywords:
+  - optical performance monitoring
+  - modulation format identification
+  - OSNR estimation
+  - explainable AI
+  - Grad-CAM
+  - deep learning
